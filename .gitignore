@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+tmp/
+diagnose_models.py
+check_models.py
+debug_models.py
