@@ -42,3 +42,6 @@ The app is designed to catch:
 *   **Outdated Stats:** By checking live web data.
 *   **Hallucinations/Lies:** By strictly comparing claim text against search result snippets.
 *   **Missing Evidence:** Flagging claims as False if no corroborating search results are found.
+
+
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/89bc9c52-f16e-4d22-a3e6-cae96afdfac2" />
